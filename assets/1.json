@@ -1,0 +1,20 @@
+{
+    "name": "Red Elephant",
+    "symbol": "",
+    "image": "1.jpg",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "creators": [
+        {
+          "address": "4qes8Ez3gg1DpMzZCVEY5VjcdeXtw7fa5UX9wAAjue8M",
+          "share": 100
+        }
+      ]
+    }
+  }
+  

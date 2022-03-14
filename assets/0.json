@@ -1,0 +1,20 @@
+{
+    "name": "Purple Dragon",
+    "symbol": "",
+    "image": "0.jpg",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "creators": [
+        {
+          "address": "4qes8Ez3gg1DpMzZCVEY5VjcdeXtw7fa5UX9wAAjue8M",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
