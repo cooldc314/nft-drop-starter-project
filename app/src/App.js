@@ -89,7 +89,7 @@ const App = () => {
       <div className="container">
         <div className="header-container">
           <p className="header">Mia's Dreamland NFTs</p>
-          <p className="sub-text">Come explore the unadultered joy of the human subconciousness</p>
+          <p className="sub-text">Come explore the unadulterated joy of the human subconsciousness</p>
           {/* Render your connect to wallet button right here */}
           {!walletAddress && renderNotConnectedContainer()}
         </div>
